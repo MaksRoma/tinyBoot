@@ -1,2 +1,2 @@
 # tinyBoot
-Bootloader for ATtiny26 microcontroller
+AVR Bootloader for ATtiny26 microcontroller
